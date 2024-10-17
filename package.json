@@ -1,0 +1,14 @@
+{
+  "name": "social-links-profile",
+  "version": "1.0.0",
+  "description": "Socail Links Profile",
+  "default": "index.html",
+  "scripts": {
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Abdo Mohamad",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
