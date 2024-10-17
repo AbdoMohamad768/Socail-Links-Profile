@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/AbdoMohamad768/Socail-Links-Profile.git)
+- Live Site URL: [social-links-profile.app](https://social-links-profile-abdomohamad.netlify.app)
 
 ## My process
 
